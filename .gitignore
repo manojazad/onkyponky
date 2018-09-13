@@ -1,0 +1,15 @@
+### OSX ###
+.DS_Store
+
+### Intellij ###
+.idea
+
+### python ###
+.Python
+env/
+venv/
+
+
+local_settings.py
+
+db.sqlite3
